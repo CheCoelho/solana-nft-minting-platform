@@ -1,0 +1,19 @@
+{
+  "name": "WISPY",
+  "symbol": "WSP",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HFg6rbPPDK8kfbqb2PZR78RjEu3wxg2bPtjAQT2x1dNb",
+        "share": 100
+      }
+    ]
+  }
+}

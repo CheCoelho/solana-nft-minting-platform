@@ -1,0 +1,19 @@
+{
+  "name": "FIESTY",
+  "symbol": "FST",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HFg6rbPPDK8kfbqb2PZR78RjEu3wxg2bPtjAQT2x1dNb",
+        "share": 100
+      }
+    ]
+  }
+}
